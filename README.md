@@ -45,17 +45,17 @@ Run:
 python main.py
 ```
 
-📊 Model Performance
+# 📊 Model Performance
 * Accuracy is printed after training
 * Confusion matrix helps visualize prediction quality
   
-✨ Features
+# ✨ Features
 * Real-time hand gesture detection
 * Works offline (no internet required)
 * Text-to-speech output
 * Modular code for easy expansion
 
-  🤝 Credits
+# 🤝 Credits
 * Developed using:
 
 * MediaPipe
